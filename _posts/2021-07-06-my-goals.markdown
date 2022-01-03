@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "My Goals!"
+date:   2021-06-29 00:41:27 -0400
+categories: jekyll update
+---
+
+# My Goals in Life
+Be a good son, husband, father and friend.  **The best credit we have in life is our word and our ethics.**
+
+Never stop learning or working because the day you stop doing both, you **start dying**.
+
+## Intro
+I've always enjoyed tinkering with electronics and learning how things work.  It's always amazed me how somebody was able to turn something they imagined into a reality.
+
+I started my career in Information Technology 18 years ago building computers and using a simple access database for asset management.  There's undoubtedly been highs and lows in my professional life and I have loved every minute of it (even the times when I was pulling my hair out).  It's so rewarding to build solutions and to come back and improve on them when you get better ideas.
+
+In the early days of my career, I enjoyed doing a mountain load of work.  But as I got more experience I learned the power of scripting.
+
+Now I focus mostly on cybersecurity and cloud solutions at my organization while scripting at any opportunity I get.  With the cloud, you can script on steroids.  You can build an entire org in a few hours without having to break your back racking a 4u server.
+
+## Career Goals
+
+I've had great mentors in my career that were always honest and looked out for what was better for me.  For that, i'll be forever greatful.
+
+While i have some experience with cloud solutions, the honest truth is that it's almost a limitless well of options and knowledge.  So my hopes are to focus on key things that i hope will help me elevate my career to the next level.  And thus, I present to you this list:
+
+* Python - You can't script if you can't code.
+* Terraform - You have to love the name if you love Sci-Fi!
+* Ansible - Why do it manually when you can automate it.
+* Packer - Like having a workforce for automation.
+* MongoDB - I need to get more knowledge with storing, encrypting and recalling data.
+* Nginx - Useful to know something else besides IIS.
+
+## Personal Goals
+
+On of my goals in life is to make my career and personal goals complement each other.  As a result I've established the following goals in my personal life:
+
+### Music 
+
+Music is the glue of society and I have always loved listening to the instruments more than the voice in songs.  I absolutely love acoustic devices.  My favorites are the guitar, violin and ukele.
+
+I can currently midly play both the guitar and the ukele and my pashion is having my daughter sing with me as I strum along the beat.
+
+Music helps keep you sane through the hard moments in life.  It's also a healthy recharge for when you need to get motivation to jump back in on a project at work.
+
+### Construction
+
+I love getting my hands dirty and building things.  I get great satisfaction and distraction from building things the way I want them done.  One of my pashions is carpentry.  I'm still in appretinceship phase but I'm getting more efficient every day.  How come you can't code carpentry.  That would be awesome!
+
+### Cooking
+
+I want to have a solid list of 10 meals that I can make that are just gangbusters delicious!
+
+I think something along the lines of this would be great:
+
+1. Tacos
+2. Ceviche (fish with avocado and lime juice)
+3. Grilled Juicy Chicken
+4. Spaghetti
+5. Chicken Alfredo
+5. Chicken Noodle Soup (Best served on cold, rainy days)
+7. Teriyaki Chicken
+8. White rice (it's really hard getting the same flavor/consistency)
+9. Smoked Gouda Mac n' Cheese
+10. Juicy Smoky Ribs (complements perfectly with Mac n' Cheese)
+
+
+
+
