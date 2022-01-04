@@ -20,3 +20,5 @@ I've been delving into Terraform for the last few months and I've got to say I l
 * Don't forget to destroy your test infrastructure when not in use, that's like leaving the lights on in empty rooms. No Bueno!
 * If you are using a version control system (VCS) like git, don't forget to include a **.gitignore** in your Terraform directory so you don't accidentally copy secrets to repo's that may be public.  Last thing you want is leaked info or an AWS bill for several thousand dollars.
 * Visual Studio Code is awesome for editing your Terraform code, it offers a free Terraform extension that allows it to auto-expand Terraform syntax as you are typing your code.
+
+I'm going to continue digging into Terraform to learn modules and workspaces.  Those look to be promising.  If you get a chance, dig in your self into Terraform.  Start with youtube.  Excellent surces are Freedcodecamp and Nana Terraform.  Remember to keep learning.
