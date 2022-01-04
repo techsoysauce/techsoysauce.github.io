@@ -15,9 +15,11 @@ Let's get right down to it, these are my goals for this year
     * Python
 * New learning
     * Kubernetes
+    * Ansible
     * DataDog
     * Packer
     * GitLab
+        * YAML
 * Projects
     * Build CI-CD service using Terraform/GitLab
         * Implement linting
