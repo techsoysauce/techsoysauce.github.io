@@ -9,6 +9,6 @@ as i can so that i can...  well... do awesome cloud stuff.  This is my first
 post so let's hope this is the start of a wonderful cloud learning journey.
   
 For now, i'll keep it brief and short.  I hope to document the technologies 
-i have learned and key takeaway points. 
+I have learned and key takeaway points. 
 
 It's a wonderful time to be alive!

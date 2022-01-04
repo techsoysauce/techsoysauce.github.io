@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Goals for 2022"
+date:   2022-01-04 8:00:27 -0400
+categories: jekyll update
+---
+
+# What I hope to accomplish this year
+Let's get right down to it, these are my goals for this year
+
+* Continue learning
+    * Terraform
+    * Docker
+    * AWS
+    * Python
+* New learning
+    * Kubernetes
+    * DataDog
+    * Packer
+    * GitLab
+* Projects
+    * Build CI-CD service using Terraform/GitLab
+        * Implement linting
+        * Implement secret detection
+        * Implement green/blue deployments
