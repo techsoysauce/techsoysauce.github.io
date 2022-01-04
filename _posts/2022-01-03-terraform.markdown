@@ -22,3 +22,5 @@ I've been delving into Terraform for the last few months and I've got to say I l
 * Visual Studio Code is awesome for editing your Terraform code, it offers a free Terraform extension that allows it to auto-expand Terraform syntax as you are typing your code.
 
 I'm going to continue digging into Terraform to learn modules and workspaces.  Those look to be promising.  If you get a chance, dig in your self into Terraform.  Start with youtube.  Excellent surces are Freedcodecamp and Nana Terraform.  Remember to keep learning.
+
+New post coming soon.
