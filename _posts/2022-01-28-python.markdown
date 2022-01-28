@@ -35,7 +35,7 @@ By googling **pypi flask** I came across the official article on how to install 
 And that’s it!!! You’re code will run like a well oiled machine. 
 
 # PyCharm
-Soon after, I discovered PyCharm, which is a wicked cool alternative to VSCode. PyCharm has **three awesome features** that I absolutely love. **One**, it will automatically create you the venv when starting a new project. **Two**, it will light up an red bulb next to your python import commands, if you click on the bulb, it will give you the option to auto-install your extensions. **Three**, it will check your python syntax and make recommendations to make your code compliant with python coding standards. PyCharm has allowed me to better my coding practices. 
+Soon after, I discovered PyCharm, which is a wicked cool alternative to VSCode. PyCharm has **three awesome features** that I absolutely love. **One**, it will automatically create you the venv when starting a new project. **Two**, it will light up a red bulb next to your python import commands, if you click on the bulb, it will give you the option to auto-install your extensions. **Three**, it will check your python syntax and make recommendations to make your code compliant with python coding standards. PyCharm has allowed me to better my coding practices. 
 So I recommend you look into PyCharm even if you are a seasoned python veteran. 
 
 So my recommendation is to use VSCode if you want to use awesome third party integration (AWS, Docker, GitLab, etc.) and PyCharm to vet your python code before pushing to the cloud.
