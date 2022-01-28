@@ -5,7 +5,7 @@ date:   2022-01-04 8:00:27 -0400
 categories: jekyll update
 ---
 
-# My initial experience to Python
+# My initial experience with Python
 
 So last year is when I started to dabble in Python.  I got the fundamentals down quick as variables, if/elses, etc. has been something I’ve been using in PowerShell for years.  But what threw me off was using Python extensions.  The Flask extension was one that I was particularly having issues working with even though it seemed VERY promising for spinning up simple API websites.  
 
@@ -19,7 +19,7 @@ Well, my solution was two-fold:
 * PyCharm Community Edition
 
 # Virtual Environments
-Virtual environments (venv) are environements that python uses to install extensions that it needs to run your code.  The venv folder lives inside the same directory as your python app.  All you do is run the following commands in VS Code to activate your venv:
+Virtual environments (venv) are local environments that python uses to install extensions that it needs to run your code.  The venv folder lives inside the same directory as your python app.  So you can have multiple python projects; each with it’s own venv folder.  All you do is run the following commands in VSCode to activate your venv:
 * python -m venv .venv 
 * source ./.venv/bin/activate 
 
@@ -32,6 +32,10 @@ By googling **pypi flask** I came across the official article on how to install 
 *Pro-tip:* you may need to substitute pip3 for pip instead
 
 
-And that’s it!!! You’re code will run will a well oiled machine. 
+And that’s it!!! You’re code will run like a well oiled machine. 
+
 # PyCharm
-Soon after, I discovered PyCharm, which is a wicked cool alternative to VSCode. PyCharm has **three awesome features** that I absolutely love. One, it will automatically create you the venv when starting a new project. Second, it will light up an red bulb next to your python import commands, if you click on the bulb, it will give you the option to auto-install your extensions. Third, it will check your python syntax and make recommendations to make your code compliant with python coding standards. PyCharm has allowed me to better my coding practices. So I recommend you look into PyCharm even if you are a seasoned python veteran. So my recommendation is to use VSCode if you want to use awesome third party integration (AWS, Docker, GitLab, etc.) and PyCharm to vet your python code before pushing to the cloud.
+Soon after, I discovered PyCharm, which is a wicked cool alternative to VSCode. PyCharm has **three awesome features** that I absolutely love. **One**, it will automatically create you the venv when starting a new project. **Two**, it will light up an red bulb next to your python import commands, if you click on the bulb, it will give you the option to auto-install your extensions. **Three**, it will check your python syntax and make recommendations to make your code compliant with python coding standards. PyCharm has allowed me to better my coding practices. 
+So I recommend you look into PyCharm even if you are a seasoned python veteran. 
+
+So my recommendation is to use VSCode if you want to use awesome third party integration (AWS, Docker, GitLab, etc.) and PyCharm to vet your python code before pushing to the cloud.
