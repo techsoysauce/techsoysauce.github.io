@@ -9,6 +9,8 @@ categories: jekyll update
 
 I’ve come across a few sites that I think would be a disservice not to share with you.  I’ve used these sites from time to time and they are invaluable.
 
+<br><br>
+
 ## [Devhints.io](https://devhints.io)
 This site shows you how to write/use many popular DevOps, Cloud related tools.  Some of my favorites are awscli, Python, BASH, VIM, Ansible and MySQL.
 
