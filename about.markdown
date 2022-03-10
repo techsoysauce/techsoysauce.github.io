@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Jose Parocua (pah-row-qua) and I love learning and above all **understand** how tech works.  It's amazing how this stuff works when you look at what's underneath the hood.
+Hi, I'm Jose Parocua (pah-row-qua) and I love learning and above all, **understanding** how tech works.  It's amazing how this stuff works when you look at what's underneath the hood.
 
 I've been performing Enterprise IT since 2003 in the financial services sector. I've been around computers since the Windows 95 days.
 
