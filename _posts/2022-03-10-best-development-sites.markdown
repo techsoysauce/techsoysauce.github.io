@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Good websites are worth their weight in gold
 
-I’ve come across a few sites that I think would be a disservice not to share with you.  I’ve used these sites from time to time and they are invaluable.
+I’ve come across a few sites that I must share with you.  I’ve used these sites from time to time and they are absolutely invaluable.
 
 <br><br>
 
@@ -22,9 +22,9 @@ This site gives you a crash course into many different languages; say markdown, 
 <br><br>
 
 ## [JSON Formatter](https://jsonformatter.curiousconcept.com)
-This website is amazing for parsing JSON code that you get from API responses.  I frequently use this to parse the API response from AWS Lambda.  I then use the parsed response to test the Lambda.
+This website is amazing for parsing JSON code that you get from API responses.  I frequently use this to parse the API response from AWS Lambda.  I then use the parsed response for developing and testing Lambdas.
 
 <br><br>
 
 ## [Terraform Tutorials](https://learn.hashicorp.com/collections/terraform/certification-associate-tutorials)
-This site gives walks you through Terraform use cases with actual code.  You can use these tutorials to learn the proper way to use Terraform.  An added bonus is that you can also grab some of the code presented here to use in your project.
+This site walks you through Terraform use cases with actual code.  You can use these tutorials to learn the proper way to use Terraform.  An added bonus is that you can also grab some of the code presented here to use in your own project.
